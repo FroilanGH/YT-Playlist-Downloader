@@ -4,7 +4,7 @@ Aplicación de escritorio para Windows que descarga playlists o videos de
 YouTube y los convierte a MP3, con nombre de artista/canción, organizados
 en carpetas por playlist.
 
-![screenshot](docs/screenshot.png)
+![screenshot](example.png)
 
 ## Características
 
